@@ -1,0 +1,16 @@
+[
+{
+  "modid": "fallout",
+  "name": "Fallout",
+  "description": "Fallout in Minecraft.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Canadinese"],
+  "credits": "The Forge and FML guys, Interplay, Bethesda",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
